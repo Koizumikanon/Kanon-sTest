@@ -1,4 +1,4 @@
-# TestCode.github.io
+# TestCode
 专门用来进行测试代码的地方
 
 用来存放一些算法相关的内容
